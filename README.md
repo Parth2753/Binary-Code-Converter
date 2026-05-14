@@ -1,2 +1,2 @@
 # Binary-Code-Converter
-Made a Binary Code Converter using Python
+Making a Binary Code Converter using Python
