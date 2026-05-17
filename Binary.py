@@ -31,7 +31,7 @@ binary_dict = {
     ' ': ' '
 }
 
-sentence = input("Enter a sentence: ").lower()
+sentence = input("Enter a sentence: ").upper()
 
 binary_sentence = ""
 
