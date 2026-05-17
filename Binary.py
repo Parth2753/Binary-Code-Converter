@@ -33,9 +33,9 @@ binary_dict = {
 
 sentence = input("Enter a sentence: ").upper()
 
-binary_sentence = ""
+sentence1 = ""
 
 for letter in sentence:
-    binary_sentence += binary_dict[letter] + " "
+    sentence1 += binary[letter] + " "
 
-print(binary_sentence)
+print(sentence1)
