@@ -1,4 +1,4 @@
-# Binary Code Converter 💻
+# Binary Code Converter 📃
 
 A simple Python project that converts text into binary code.
 
